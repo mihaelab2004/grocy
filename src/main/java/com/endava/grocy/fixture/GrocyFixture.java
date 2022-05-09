@@ -9,7 +9,6 @@ import com.endava.grocy.model.Product;
 import com.endava.grocy.model.QuantityUnit;
 import io.restassured.response.Response;
 import lombok.Getter;
-import lombok.Setter;
 import org.apache.http.HttpStatus;
 
 public class GrocyFixture {

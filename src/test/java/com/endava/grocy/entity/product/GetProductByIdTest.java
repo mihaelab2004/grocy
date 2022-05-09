@@ -1,7 +1,6 @@
 package com.endava.grocy.entity.product;
 
 import com.endava.grocy.TestBaseClass;
-import com.endava.grocy.client.EntityClient;
 import com.endava.grocy.model.EntityType;
 import io.restassured.response.Response;
 import org.apache.http.HttpStatus;
